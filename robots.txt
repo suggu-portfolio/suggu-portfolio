@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://suggu-portfolio.github.io/suggu-portfolio/sitemap.xml
